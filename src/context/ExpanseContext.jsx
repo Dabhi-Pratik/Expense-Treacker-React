@@ -51,8 +51,9 @@ const expenseReducer = (state, action) => {
 
       if (state.editValue !== null) {
         const updateList = state.expenseList.map((list) => {
-          list.id === state.editValue.id ? { ...list, ...input } : list;
+          return list.id === state.editValue.id ? { ...list, ...input } : list;
         });
+
         return {
           ...state,
           expenseList: updateList,
