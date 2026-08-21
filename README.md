@@ -13,7 +13,7 @@ https://shiny-profiterole-1b63f0.netlify.app/
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/315438d5-dc08-4bcb-8ba5-52be31102dae" />
 
 ## 📸 Video
-
+https://drive.google.com/file/d/1bLqw8nO_FpMVc7hCFHYoneWWyaxmWhjb/view?usp=sharing
 ---
 
 ## ✨ Features
